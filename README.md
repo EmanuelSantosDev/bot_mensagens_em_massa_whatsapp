@@ -1,14 +1,14 @@
-# Bot de Envio de mensagem em massa no WhatsApp
+# PyAutoGUI - Bot de Envio de Mensagens em Massa no WhatsApp
 
 
-Este é um script Python que automatiza o envio de mensagens em massa no aplicativo do WhatsApp.
-
-
-## Orientações Gerais
-
-
-- Para este projeto foi utilizada uma lista de contatos em formato txt.
-- Programada uma pausa de 300 segundos entre cada envio a fim de evitar o bloqueio.
+1. Selecionar o contato
+1. Abrir o navegador
+1. Clicar no botão que autoriza a abertura do Aplicativo do WhatsApp
+1. Ativar o campo de texto
+1. Escrever Mensagem
+1. Enviar Mensagem
+1. Fechando o navegador para evitar o travamento do browser (evitar 1. múltiplas abas abertas)
+1. Pausa de 300 segundos entre cada envio à fim de evitar o bloqueio do bot
 
 
 ## Link da API do WhatsApp para Envio de Mensagem:
